@@ -4,6 +4,7 @@
   <img src="https://github.com/sxmdnn/sxmdnn/blob/main/aefaa0143b4b34ef69af71896948b451.gif" alt="Header"/>
 </a>
 
+
 ## Who am I?
 I’m a 14-year-old from Scotland, passionate about coding and currently learning Java. My big dream? To become a top programmer and land a job at a major tech company.
 
@@ -19,21 +20,6 @@ Tools and languages I’m exploring on the side.
 [![stack](https://skillicons.dev/icons?i=figma,notion,obsidian)](https://skillicons.dev)  
 Where I organize, design, and brainstorm ideas.
 
-
-## My Stats
-
-Tracking my coding journey, one streak at a time.
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=sxmdnn&theme=yellow-pink&hide_border=true" 
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sxmdnn&color=FFD700)
 
 ## My Contacts
 
@@ -72,3 +58,4 @@ Connect with me on my favorite platforms!
 </p>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=sxmdnn&color=FFD700)
