@@ -18,3 +18,20 @@ Tools and languages I’m exploring on the side.
 ## Creative Stack  
 [![stack](https://skillicons.dev/icons?i=figma,notion,obsidian)](https://skillicons.dev)  
 Where I organize, design, and brainstorm ideas.
+
+
+## My Stats
+
+Tracking my coding journey, one streak at a time.
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=sxmdnn&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sxmdnn&theme=tokyonight)
+
