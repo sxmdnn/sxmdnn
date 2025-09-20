@@ -35,6 +35,40 @@ Tracking my coding journey, one streak at a time.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sxmdnn&theme=tokyonight)
 
+## My Contacts
 
+Connect with me on my favorite platforms!
+
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://www.github.com/sxmdnn" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+      width="48"
+      height="48"
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/sxmdnn" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
+      width="48"
+      height="48"
+      alt="Telegram"
+    />
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@sxmdnn?_t=ZN-8zfbUo6CMnW&_r=1" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/user-attachments/assets/89e8adbc-cfb3-45d2-8a08-6d6ea574129b"
+      width="48"
+      height="48"
+      alt="TikTok"
+    />
+  </a>
+</p>
 
 
