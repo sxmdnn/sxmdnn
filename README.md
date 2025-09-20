@@ -6,3 +6,15 @@
 
 ## Who am I?
 I’m a 14-year-old from Scotland, passionate about coding and currently learning Java. My big dream? To become a top programmer and land a job at a major tech company.
+
+## Main Stack  
+[![stack](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+My core focus: mastering Java.
+
+## Extra Stack  
+[![stack](https://skillicons.dev/icons?i=github,linux,git,html,css,javascript)](https://skillicons.dev)  
+Tools and languages I’m exploring on the side.
+
+## Creative Stack  
+[![stack](https://skillicons.dev/icons?i=figma,notion,obsidian)](https://skillicons.dev)  
+Where I organize, design, and brainstorm ideas.
